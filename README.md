@@ -5,5 +5,14 @@ The App can display the real time signal information for the approaching interse
 The SPaT message is sent to the OBE from RSU via DSRC and then the OBE resend it to the smartphone via Bluetooth. 
 The smartphone parses the message and display it to the driver.
 
-![alt tag]()
+
+
+Green sigal ahead 
+![alt tag](https://github.com/aaronke/BluetoothTest/blob/master/screenshots/1.png)
+
+Yellow signal ahead
+![alt tag](https://github.com/aaronke/BluetoothTest/blob/master/screenshots/2.png)
+
+Red signal ahead
+![alt tag](https://github.com/aaronke/BluetoothTest/blob/master/screenshots/3.png)
 
