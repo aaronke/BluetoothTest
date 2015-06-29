@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BluetoothTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="logo_cst">CST Logo</string>
+	<string name="disconnected_label">not Connected</string>
+	<string name="connected_label">connected</string>
+	<string name="signal_img_description">Signal Image</string>
+	<string name="direction_left">left turn is allowed</string>
+	<string name="direction_straight">go through is allowed</string>
+	<string name="direction_right"> right turn is allowed</string>
+</resources>
